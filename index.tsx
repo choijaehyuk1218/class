@@ -4,7 +4,7 @@ type Props = {}
 
 const index = (props: Props) => {
   return (
-    <div>gggggggg</div>
+    <div>fjfjfjfjfjfjfjfjfjfffjfjfffjfjff</div>
   )
 }
 
